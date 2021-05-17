@@ -1,4 +1,4 @@
-Author : NITISH PRABHU KOTA, SANKET MANIK SALUNKE
+Author : NITISH PRABHU KOTA, ADITYA DATTATRAY BHOGTE
 Link : https://burgersongrill.ml/
 ===========================================================
 
